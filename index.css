@@ -65,6 +65,18 @@ footer p{
     text-align: center;
     font-size: 1.2rem;
     margin-top: 5px;
+    font-family: 'Lexend', sans-serif;
+}
+footer i{
+    text-align: center;
+}
+footer p a {
+    text-decoration: none;
+    color: white;
+    transition: .5s all ease-in-out;
+}
+footer p a:hover {
+    color: #d6d5d5;
 }
 /* Reponsive Styles */
 @media  screen and (max-width: 980px) {
