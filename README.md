@@ -20,7 +20,7 @@ This project is a simple **CSS Grid practice project** designed to showcase how 
 ---
 
 ## 📂 Project Structure
-- **css-grid-magazine-layout/**
+**css-grid-magazine-layout/**
 - │── index.html # Main HTML file
 - │── index.css # Styling with CSS Grid
 - │── images/ # Image assets
